@@ -8,7 +8,7 @@ This analysis was conducted for Lousie to identify any trends in how different c
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-!(Theater_Outcomes_vs_Launch.png)
+!(https://github.com/SBaig01/kickstarter-analysis/blob/d21d898dbb1c6fb7a306d32a55cf2026d6462d61/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
