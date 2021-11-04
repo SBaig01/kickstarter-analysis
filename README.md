@@ -11,6 +11,7 @@ This analysis was conducted for Lousie to identify any trends in how different c
 ![Theater_Outcomes_vs_Launch](https://github.com/SBaig01/kickstarter-analysis/blob/d21d898dbb1c6fb7a306d32a55cf2026d6462d61/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals](https://github.com/SBaig01/kickstarter-analysis/blob/e36710ca997fda482d7675e6e94ffcc172b62b2e/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
