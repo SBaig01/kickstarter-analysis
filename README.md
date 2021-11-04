@@ -3,6 +3,7 @@
 ## Overview of Project
 
 ### Purpose
+This analysis was conducted for Lousie to identify any trends in how different campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
