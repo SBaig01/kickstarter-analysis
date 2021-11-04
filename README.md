@@ -8,6 +8,7 @@ This analysis was conducted for Lousie to identify any trends in how different c
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+assets/images/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
