@@ -26,12 +26,12 @@ The following graph shows the possible relation between successful, failed and c
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1 Most successful campaigns were launched around May-June-July timeframe.
-2 The least successful campaigns were launched around Nov-Dec-Jan timeframe.
+1. Most successful campaigns were launched around May-June-July timeframe.
+2. The least successful campaigns were launched around Nov-Dec-Jan timeframe.
 
 - What can you conclude about the Outcomes based on Goals?
-1 Most succescful campaigns had a target less than 5000 or between 35000 and 44999.
-2 Most failed campaigns had a target between 25000 and 34999 or above 45000.
+1. Most succescful campaigns had a target less than 5000 or between 35000 and 44999.
+2. Most failed campaigns had a target between 25000 and 34999 or above 45000.
 
 - What are some limitations of this dataset?
 - 
