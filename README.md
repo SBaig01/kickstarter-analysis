@@ -30,10 +30,12 @@ The following graph shows the possible relation between successful, failed and c
 2. The least successful campaigns were launched around Nov-Dec-Jan timeframe.
 
 - What can you conclude about the Outcomes based on Goals?
-1. Most succescful campaigns had a target less than 5000 or between 35000 and 44999.
-2. Most failed campaigns had a target between 25000 and 34999 or above 45000.
+The higher the target, the more likely the campaign will fail.
 
 - What are some limitations of this dataset?
-- 
+1. The dataset does not provide the play genre, which might have provided additional insights for Lousie.
+2. The dataset does not exclude any outliers, which might be skewing our results/analyses. 
 
 - What are some other possible tables and/or graphs that we could create?
+* We could create a graph comparing the duration of the campaign versus the outcome to understand if the campaign duration had any impact in achieveing targets.
+* We could create the graphs per country to see if there are any regional trends that surpass global trends. 
