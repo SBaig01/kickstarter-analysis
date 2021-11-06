@@ -15,22 +15,25 @@ The following graph shows the possible relation between successful, failed and c
 
 ### Analysis of Outcomes Based on Goals
 
-The following graph shows the possible relation between successful, failed and canceled campaign outcomes (for other campaigns) compared to their pre-defined funding goals.
+The following graph shows the possible relation between successful, failed and canceled campaign outcomes (for other campaigns) compared to their pre-defined funding goals (expressed as a percentage).
 
 ![Outcomes_vs_Goals](https://github.com/SBaig01/kickstarter-analysis/blob/e36710ca997fda482d7675e6e94ffcc172b62b2e/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-* CountIfs formula needed to include the criteria for Outcome. We could not simply filter in the Kickstarter datasheet to get appropriate numbers in Outcomes Based on Goals.
+* CountIfs formula needed to include the criteria for Outcome. We could not simply fiCmlter in the Kickstarter datasheet to get appropriate numbers in Outcomes Based on Goals.
 * Since there were no Cancelled plays in the dataset, a manual review of data in the Kickstarter datasheet was needed to validate if the CountIfs formula were working as expected.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1 Most successful trials were launched around May-June-July timeframe.
-2 
+1 Most successful campaigns were launched around May-June-July timeframe.
+2 The least successful campaigns were launched around Nov-Dec-Jan timeframe.
 
 - What can you conclude about the Outcomes based on Goals?
+1 Most succescful campaigns had a target less than 5000 or between 35000 and 44999.
+2 Most failed campaigns had a target between 25000 and 34999 or above 45000.
 
 - What are some limitations of this dataset?
+- 
 
 - What are some other possible tables and/or graphs that we could create?
