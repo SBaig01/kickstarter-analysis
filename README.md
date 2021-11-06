@@ -30,7 +30,7 @@ The following graph shows the possible relation between successful, failed and c
   2. The least successful campaigns were launched around Nov-Dec-Jan timeframe.
 
 - What can you conclude about the Outcomes based on Goals?
-  The higher the target, the more likely the campaign will fail.
+  * The higher the target, the more likely the campaign will fail.
 
 - What are some limitations of this dataset?
   1. The dataset does not provide the play genre, which might have provided additional insights for Lousie.
