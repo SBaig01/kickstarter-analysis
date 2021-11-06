@@ -26,16 +26,16 @@ The following graph shows the possible relation between successful, failed and c
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. Most successful campaigns were launched around May-June-July timeframe.
-2. The least successful campaigns were launched around Nov-Dec-Jan timeframe.
+  1. Most successful campaigns were launched around May-June-July timeframe.
+  2. The least successful campaigns were launched around Nov-Dec-Jan timeframe.
 
 - What can you conclude about the Outcomes based on Goals?
-The higher the target, the more likely the campaign will fail.
+  The higher the target, the more likely the campaign will fail.
 
 - What are some limitations of this dataset?
-1. The dataset does not provide the play genre, which might have provided additional insights for Lousie.
-2. The dataset does not exclude any outliers, which might be skewing our results/analyses. 
+  1. The dataset does not provide the play genre, which might have provided additional insights for Lousie.
+  2. The dataset does not exclude any outliers, which might be skewing our results/analyses. 
 
 - What are some other possible tables and/or graphs that we could create?
-* We could create a graph comparing the duration of the campaign versus the outcome to understand if the campaign duration had any impact in achieveing targets.
-* We could create the graphs per country to see if there are any regional trends that surpass global trends. 
+  1. We could create a graph comparing the duration of the campaign versus the outcome to understand if the campaign duration had any impact in achieveing targets.
+  2. We could create the graphs per country to see if there are any regional trends that surpass global trends. 
